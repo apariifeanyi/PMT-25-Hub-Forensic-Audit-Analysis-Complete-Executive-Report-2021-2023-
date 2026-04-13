@@ -1,7 +1,5 @@
 # PMT Strategic Fleet Forensic Audit (2021-2023)
 
-![Dashboard Preview](dashboard_preview.png)
-
 > **Interactive Version:** [View the Live Tableau Story]( https://public.tableau.com/views/PMT25-HubForensicAuditAnalysisCompleteExecutiveReport2021-2023/PMTForensicAuditFinalReport)
 
 
